@@ -27,3 +27,7 @@ so i've done 5 lessons? 4? good enough for me honestly
 Oct 18, .23
 
 usually I omit writing the log but I today I've done 2 debugging lessons
+
+Oct 20, .23
+
+Fundamental data types
