@@ -31,3 +31,7 @@ usually I omit writing the log but I today I've done 2 debugging lessons
 Oct 20, .23
 
 Fundamental data types
+
+Oct 27, .23
+
+I was supposed to start chapter 5 but was busy the whole day
